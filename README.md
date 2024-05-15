@@ -14,7 +14,7 @@ Interface visual que muda a aparência dos botões quando pressionados.
 - JavaScript: Controle da reprodução dos sons, interação com os botões e manipulação da interface visual.
 
 ## Para executar o projeto:
-Abra o arquivo index.html em seu navegador.
+Abra o arquivo index.html em seu navegador. Ou acesse o link: [Sophis MIDI](https://sophis-midi.vercel.app/)
 
 ## Agradecimentos:
 Agradeço à Alura por disponibilizar este curso e por me proporcionar a oportunidade de aprender e desenvolver este projeto.
